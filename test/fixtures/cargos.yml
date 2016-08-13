@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  port_id: MyString
+  volume: 1
+  date: 2016-08-09
+
+two:
+  name: MyString
+  port_id: MyString
+  volume: 1
+  date: 2016-08-09
